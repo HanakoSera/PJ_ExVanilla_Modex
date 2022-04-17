@@ -4,11 +4,11 @@ loader([
         id: "android",
         modders: [
             {
-                name: "3.5.3c",
-                id: "353c"
+                name: "PJ_ExVolution",
+                id: "0196428c29796c3cd30ae0e0c9d973b0"
             },
             {
-                name: "3.12.6c",
+                name: "PJ_ExVanilla",
                 id: "3126c"
             },
             {
@@ -21,7 +21,14 @@ loader([
         title: "iOS",
         id: "ios",
         modders: [
-            
+            {
+                name: "PJ_ExVolution_iOS",
+                id: "353iOS"
+            },
+            {
+                name: "PJ_ExVanilla_iOS",
+                id: "3126iOS"
+            },
         ]
     }
 ]);
